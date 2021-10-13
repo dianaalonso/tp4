@@ -1,18 +1,26 @@
 h1 {
-  font-family: Arial;
-  color: blue; 
+  font-family: japanese-formal;
+  color: orangered;
+  opacity: .6;
+  font-size: 35px;
 }
 
 h4 {
   margin-bottom: 0;
+  background-color: orange;
+  opacity: .5;
+  font-family: japanese-formal;
+  font-size: 30px;
 }
 
 ul, ol {
+  font-family: japanese-formal;
   margin-top: 0;
+  font-size: 25px;
 }
 
 .copyright {
-  font-family: Arial;
-  font-size: 9px;
+  font-family: japanese-formal;
+  font-size: 20px;
   font-style: italic;
 }
